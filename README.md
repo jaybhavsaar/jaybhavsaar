@@ -10,10 +10,9 @@ Aspiring Python Developer with a strong understanding of the language and a desi
 * ✉️  You can contact me at [jaybhavsar279@gmail.com](mailto:jaybhavsar279@gmail.com)
 * 🧠  I'm learning Python & Django
 
-<a href="https://www.github.com/jaybhavsaar" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.github.com/jaybhavsaar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jaybhavsaar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-https://komarev.com/ghpvc/?username=jaybhavsaar
+ -->
 ![](https://komarev.com/ghpvc/?username=jaybhavsaar&label=PROFILE+VIEWS)
 
 
