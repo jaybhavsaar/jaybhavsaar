@@ -13,6 +13,7 @@ Aspiring Python Developer with a strong understanding of the language and a desi
 <a href="https://www.github.com/jaybhavsaar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jaybhavsaar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+https://komarev.com/ghpvc/?username=jaybhavsaar
 ### Skills
 
 
